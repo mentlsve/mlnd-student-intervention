@@ -1,4 +1,4 @@
-# Student Intervention SYstem
+# Student Intervention System
 *A part of Udacity's [Machine Learning Engineer Nanodegree Program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)*.
 
 ### Description
